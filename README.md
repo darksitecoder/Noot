@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Noot Search](https://noot-search.netlify.app/search)
 
 
-![Noot] Noot Light ![alt text](https://drive.google.com/file/d/1vTHY8xxHK3RvaOSrVaPLrj7gvW-2u-aW/view?usp=sharing "Noot Light")
+![Noot] Noot Light ![alt text](https://github.com/darksitecoder/Noot/blob/master/images/noot-light.PNG "Noot Light")
 
 ![Noot] Noot Dark (https://drive.google.com/file/d/1G1F6QuPJsrFY80_pq6H3EjMrORci5A1L/view?usp=sharing)
 
