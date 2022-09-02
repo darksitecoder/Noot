@@ -15,7 +15,7 @@ export const Navbar = ({ darkTheme, setDarkTheme}) => {
             <Link to="/">
               <p className="text-3xl font-bold tetx-white py-1 px-2 rounded  dark:text-white flex">
                 <img src={Noot} alt=""
-                className="w-[80px]" /> Noot 
+                className="w-[80px]" /> Nooot 
               </p>
               <hr className="hidden dark:block w-35 ml-5" style={{boxShadow: "5px -20px 40px 5px white"}}/>
             </Link>
