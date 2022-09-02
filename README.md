@@ -6,7 +6,7 @@
 
 ![Noot] Noot Light ![alt text](https://github.com/darksitecoder/Noot/blob/master/images/noot-light.PNG "Noot Light")
 
-![Noot] Noot Dark (https://drive.google.com/file/d/1G1F6QuPJsrFY80_pq6H3EjMrORci5A1L/view?usp=sharing)
+![Noot] Noot Dark ![alt text](https://github.com/darksitecoder/Noot/blob/master/images/noot-dark.PNG "Noot Dark")
 
 
 - 🌱 I’m currently learning **React Js**
